@@ -1,0 +1,90 @@
+@media(max-width:1170px) {
+    .main img{
+        width: 400px;
+        height: auto;
+        margin-left: -40px;
+    }
+    .about-text{
+        width: 600px;
+    }
+    .main{
+        width:700px;
+        display: flex;
+        justify-content:space-between
+    }
+    .about-text h2{
+        font-size: 55px;
+        margin-left: 50px;
+        margin-top: -10px;
+    
+    }
+    .about-text h5{
+        font-size: 22px;
+        margin-bottom: 25px;
+        margin-left: 40px;
+        margin-top: -10px;
+    }
+    .about-text p{
+        line-height: 25px;
+        font-size: 16px;
+        margin-bottom: 30px;
+        margin-left: 40px;
+    }
+    button{
+        padding: 9px 25px;
+        margin-left: 60px;
+        margin-top: -50px;
+    }
+    button:hover{
+        transition: .4s;
+        background-color: transparent;
+        border: 2px solid #f9004d;
+        cursor: pointer;
+        transform: scale(1.1);
+    }
+}
+@media(max-width:900px) {
+    .main img{
+        width: 400px;
+        height: auto;
+        margin-left: -40px;
+    }
+    .about-text{
+        width: 600px;
+    }
+    .main{
+        width:700px;
+        display: flex;
+        justify-content:space-between
+    }
+    .about-text h2{
+        font-size: 55px;
+        margin-left: 50px;
+        margin-top: -10px;
+    
+    }
+    .about-text h5{
+        font-size: 22px;
+        margin-bottom: 25px;
+        margin-left: 40px;
+        margin-top: -10px;
+    }
+    .about-text p{
+        line-height: 25px;
+        font-size: 16px;
+        margin-bottom: 30px;
+        margin-left: 40px;
+    }
+    button{
+        padding: 9px 25px;
+        margin-left: 60px;
+        margin-top: -50px;
+    }
+    button:hover{
+        transition: .4s;
+        background-color: transparent;
+        border: 2px solid #f9004d;
+        cursor: pointer;
+        transform: scale(1.1);
+    }
+}
